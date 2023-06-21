@@ -2,7 +2,7 @@
 
 void print_alphabet_x10(void);
 /**
-* main - check the code.
+* main - print_alphabet_x10.
 *
 * Return: Always 0.
 */
